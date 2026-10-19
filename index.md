@@ -1,5 +1,5 @@
 ---
-Home
+title: Home
 ---
 
 # Computer Science ePortfolio 
