@@ -7,7 +7,7 @@ title: Home
 - Professional Self-Assessment:
   
 - [Initial Code Review]:
-- <iframe width="500" height="281" src="https://www.youtube.com/embed/rKtsfWiGzFI" title="Code Review" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rKtsfWiGzFI?si=TJ7nTkkAVBKHVlKG" title="Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - [Enhancement One: Software Design and Engineering](enhancement-one.html)
 - [Enhancement Two: Algorithms and Data Structures](enhancement-two.html)
