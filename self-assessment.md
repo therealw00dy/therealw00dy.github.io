@@ -4,7 +4,7 @@ title: Self-Assessment
 
 [Home](index.html)
 
-## Self-Assessment
+## [Self-Assessment](https://github.com/therealw00dy/therealw00dy.github.io/blob/main/Self-Assessment.docx)
 
 I am a student finishing a Bachelor of Science in Computer Science at Southern New Hampshire University, with a heavy interest in backend and full-stack development. This capstone gave me a reason to go back through work from previous classes and see how my work and mindset have changed. My capabilities and the issues I look for when reviewing and writing code have changed completely; over the last few years, I've become much more aware and confident in my coding. The biggest change is how I treat my own code. In the past, I was mostly worried about the program running and working as intended, but now I look for how it can fail, how someone else can read it, and how I can prove that it works. These changes in mind and skill set are very visible in the differences found in my code from reworking it to a higher standard than when I designed it.
 
