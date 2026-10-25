@@ -1,0 +1,62 @@
+MAT142,Precalculus with Limits
+MAT225,Calculus I: Single-Variable Calculus,MAT140,MAT142
+MAT230,Discrete Mathematics
+MAT239,Mathematics for Computing
+MAT243,Applied Statistics for Science Technology Engineering and Mathematics (STEM)
+MAT350,Applied Linear Algebra,MAT225
+PHY150,Introductory Physics: Mechanics,MAT140,MAT142,MAT225
+CS110,Fundamentals of Programming
+IT140,Introduction to Scripting
+CS210,Programming Languages,IT145
+CS217,Object Oriented Programming,IT145,CS113
+CS218,Data Structure and Algorithms,CS210,CS217,MAT230,MAT239
+CS300,Data Structures and Algorithms: Analysis and Design,MAT230,MAT239,CS210,CS217
+CS231,Database Systems,CS110,CS113,IT140
+DAD220,Introduction to Structured Database Environments
+CS230,Operating Platforms,CS210,CS217
+CS250,Software Development Lifecycle,IT145
+CS255,System Analysis and Design,IT145
+CS305,Software Security,IT145
+CS320,Software Testing Automation and Quality Assurance,IT145
+CS330,Computational Graphics and Visualization,CS210,CS217
+CS340,Client/Server Development,CS320
+CS360,Mobile Architecture and Programming,IT145
+CS370,Current and Emerging Trends in Computer Science,CS218,CS300
+CS465,Full Stack Development I,CS340
+IT145,Foundation in Application Development,CS110,IT140
+CS490,Computer Science Internship,CS218,CS304
+CS499,Computer Science Capstone,CS218,CS340
+CS350,Emerging Systems Architectures and Technologies,CS230,CS330
+CS405,Secure Coding,CS230,CS340,CS260,CS300
+CS410,Software Reverse Engineering,CS230,CS260,CS300
+MAT241,Modern Statistics with Software
+PHY215,Physics I,MAT225
+CS319,UI/UX Design and Development,IT145
+CS510,Operating Systems Principles and Applications,CS500
+CS530,Artificial Intelligence (AI) Principles and Applications,CS500
+CS550,Networking and Cybersecurity,CS510
+CS590,Database Design and Development,CS500
+CS219,Computer Architecture I,CS113,IT145
+CS312,Analysis of Algorithms,CS218,MAT239
+CS361,Computer Software and Operating Systems,CS218
+CS328,Embedded Systems,CS110,CS114
+EE301,Digital Circuits,CS219
+DAT260,Emerging Technologies and Big Data,DAD220
+DAT325,Data Validation: Quality and Cleaning,DAD220
+DAT375,Data Analysis Techniques,DAD220,MAT303
+MAT303,Applied Statistics II for Science Technology Engineering and Mathematics (STEM),MAT243
+CYB200,Cybersecurity Foundations
+CYB210,Computer Networking,IT212
+IT212,Introduction to Computer Networks,CS230,IT200
+IT253,Computer Systems Security,IT212
+CS407,Principles of Machine Learning,CS218,MAT350
+CS411,Artificial Intelligence,CS218
+MAT300,Applied Statistics II: Regression Analysis,MAT240,MAT241,MAT243
+CS331,Computer Security,CS110,CS113,IT140
+EG424,Industrial Robots,EG361,MAT350
+EG426,Mobile Robots,CS328,EG361
+QSO340,Project Management
+QSO355,Resource Estimating and Scheduling,QSO340,QSO345
+QSO440,Topics in Project Management,QSO340
+BUS210,Managing and Leading in Business
+BUS225,Critical Business Skills for Success,MAT240,MAT243
