@@ -8,7 +8,7 @@ title: Enhancement One
 
 [Enhancement One Files](https://github.com/therealw00dy/therealw00dy.github.io/blob/main/Enhancement%20One)
 
-## Narrative
+## [Narrative](https://github.com/therealw00dy/therealw00dy.github.io/blob/main/Enhancement%20One/Enhancement%20One.docx)
 
 ### Briefly describe the artifact. What is it? When was it created?
 
