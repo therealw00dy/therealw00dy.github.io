@@ -8,7 +8,7 @@ title: Enhancement Two
 
 [Enhancement Two Files](https://github.com/therealw00dy/therealw00dy.github.io/tree/main/Enhancement%20Two)
 
-## Narrative
+## [Narrative](https://github.com/therealw00dy/therealw00dy.github.io/blob/main/Enhancement%20Two/Enhancement%202.docx)
 
 ### Briefly describe the artifact. What is it? When was it created?
 
