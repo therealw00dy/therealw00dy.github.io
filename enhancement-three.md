@@ -8,7 +8,7 @@ title: Enhancement Three
 
 [Enhancement Three Files](https://github.com/therealw00dy/therealw00dy.github.io/tree/main/Enhancement%20Three)
 
-## Narrative
+## [Narrative](https://github.com/therealw00dy/therealw00dy.github.io/blob/main/Enhancement%20Three/Enhancement%203.docx)
 
 ### Briefly describe the artifact. What is it? When was it created?
 
